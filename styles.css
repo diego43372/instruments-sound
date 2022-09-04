@@ -1,0 +1,38 @@
+html{
+    background: whitesmoke;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    height: 1500px;
+    width: 1200px;
+    background: gray;
+    margin: auto;
+    padding:0px;
+}
+header{
+    height:150px;
+    width: auto;
+    background: #C9DD83;
+    
+}
+nav{
+    height:150px;
+    width: auto;
+    background: #092834;
+    
+}
+
+section{
+    height:1200px;
+    width: auto;
+    background: #E6E6E6;
+    
+}
+
+
+footer{
+    height:150px;
+    width: auto;
+    background: #118BBB;
+}
