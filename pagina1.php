@@ -4,36 +4,49 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Instruments sound register</title>
+    <link rel="stylesheet" href="instrumentsound.css">
 </head>
 <style>
     body{
-        background-color: #808080
-    }
+        background-color: #6A5ACD
+       
+            }
+          
+h1{
+    font-family: verdana;
+    font-size:42px;
+    text-align: center;
+    color:white;
+}
+
+
  </style>   
 <body>
-    <h1> Hoja 1 </h1>
-    <form action="pagina2.php" method="post"> 
+    <h1> Registro usuarios Instruments Sound </h1>
+    <div class="formulario">
+    <form action="pagina2.php" method="post">
         
         Identificacion:
-        <input type="text" name="Identificacion"> <br>
-        Nombres:
-        <input type="text" name="Nombres"><br>
-        Sexo:
-        <input type="text" name="Sexo"><br>
-        Direccion:
-        <input type="text" name="Direccion"><br>
+        <input type="text" name="identificacion"> <br>
         Correo:
-        <input type="text" name="Correo"><br>
-        Fecha_Nac
-        <input type="text" name="Fecha_Nac"><br>
-        Movil:
-        <input type="text" name="Movil"><br>
-        Edad:
-        <input type="text" name="Edad"><br>
+        <input type="text" name="correo"><br>
+        Nombre:
+        <input type="text" name="nombre"><br>
+        apellidos:
+        <input type="text" name="apellidos"><br>
+        Contraseña:
+        <input type="text" name="contraseña"><br>
+        Estado:
+        <input type="text" name="estado"><br>
+        Rol:
+        <input type="text" name="rol"><br>
+
+        
        
         
         <input type="submit" value="Registrar">
+        </div>
     </from>
 </body>
 </html>

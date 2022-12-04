@@ -1,7 +1,6 @@
 <html>
 <head>
-<title>borrar datos</title>
-<link rel="stylesheet" href="instrumentssound.css">
+<title>actulizar datos</title>
 </head>
 <style>
     body{
@@ -14,15 +13,15 @@
 
  </style>   
 <body>
-<form action="pagina7.php"
+<form action="pagina9.php"
 method="post">
 Ingrese el numero de identificacion del usuario
-que va a borrar:
+que va a actualizar:
 <input type="text"
 name="identificacion">
 <br>
 <input type="submit"
-value="buscar y borrar">
+value="buscar y actualizar">
 </form>
 </body>
 </htm>

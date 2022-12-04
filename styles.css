@@ -1,25 +1,46 @@
+
 html{
-    background: whitesmoke;
-    margin: 0px;
-    padding: 0px;
+    background: rgb(48,19,77);
+background: linear-gradient(90deg, rgba(48,19,77,1) 6%, rgba(13,71,106,1) 44%, rgba(95,37,150,1) 74%, rgba(15,77,115,1) 100%);
 }
 body{
     height: 1500px;
     width: 1200px;
-    background: gray;
-    margin: auto;
-    padding:0px;
+    background: whitesmoke;
+    margin:auto;
+   
+    
+  
+    
 }
 header{
-    height:150px;
+    height: 150px;
     width: auto;
     background: #C9DD83;
     
+    
+    
+     
+}
+.links-header{
+    text-align: right;
+}
+.link-home{
+    text-align: left;
+    margin-left: 20px;
+}
+h1{
+    text-align: center;
+    font-family: verdana;
+    font-size: 40px;
+    color: rgb(45, 0, 87);
 }
 nav{
-    height:150px;
+    height: 200px;
     width: auto;
     background: #092834;
+    margin-top: -22px;
+  
     
 }
 
@@ -27,12 +48,33 @@ section{
     height:1200px;
     width: auto;
     background: #E6E6E6;
+    margin-top: -22px;
+    
     
 }
-
+.contenedor-imgs{
+   
+    height: 400px;
+    width: 400px;
+    
+}
 
 footer{
     height:150px;
     width: auto;
     background: #118BBB;
+    padding:10px;
+    clear:left;
+    
+}
+.links-contacto{
+    text-align: justify;
+}
+.ubicacion{
+text-align: right;
+}
+img{
+    height: 350px;
+    width: 350px; 
+
 }

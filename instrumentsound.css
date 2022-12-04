@@ -1,0 +1,19 @@
+html{
+    background: rgb(48,19,77);
+    background: linear-gradient(90deg, rgba(48,19,77,1) 6%, rgba(13,71,106,1) 44%, rgba(95,37,150,1) 74%, rgba(15,77,115,1) 100%);
+    margin: 0px;
+    padding: 0px;
+}
+.formulario{
+    text-align: center;
+    font-family: verdana;
+    color: cornsilk;
+    font-size: 38px;
+    
+}
+body{
+width: 500px;
+height: 500px;
+margin: auto;
+margin-top: 100px;
+}
