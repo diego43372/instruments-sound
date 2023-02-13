@@ -1,0 +1,86 @@
+html{
+    background-color: whitesmoke;
+    height: 100%;
+    width: 100%;
+    font-family: sans-serif;
+    display: block;
+    position: absolute;    
+}
+header{
+background-color: #d383f3;
+display: block;
+position: relative;
+margin: 0%;
+}
+#h1_header{
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+}
+#nav_header{
+    
+    padding: 10px;
+    padding-top: 15px;
+    padding-left: 20px;
+
+}
+#links-header{
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+#links-left{
+    
+    display: flex;
+    float: left;
+    padding: 10px;
+}
+#links-right{
+    
+    display: flex;
+    float: right;
+    padding: 10px;
+}
+.registrarse-header{
+    padding: 10px;
+}
+.iniciars-header{
+    padding: 10px;
+}
+.link-home{
+    float: left;
+    padding: 10px;
+    display:initial;
+}
+.carrito_de_compras{
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+body{
+    background-color: whitesmoke;
+    margin-inline: black;
+    position:relative;
+    margin:0%
+}
+#contenedor-imgs{
+display: flex;
+justify-content:space-between;
+height: 500px;
+}
+footer{
+    background-color: whitesmoke;
+    padding:10px;
+}
+#links-contacto{
+display: flex;
+justify-content: space-evenly;
+}
+.redes{
+float:left;
+}
+.ubiquenos{
+    float:right;
+}
