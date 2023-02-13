@@ -1,0 +1,21 @@
+html{
+    background: whitesmoke;
+    margin: 0px;
+    padding: 0px;
+}
+.formulario{
+    text-align: center;
+    font-family: verdana;
+    color: cornsilk;
+    font-size: 38px;
+    
+}
+body{
+width: 500px;
+height: 500px;
+margin: auto;
+margin-top: 100px;
+background-color: #6A5ACD;
+position:relative;
+border-radius: 8%;
+}
